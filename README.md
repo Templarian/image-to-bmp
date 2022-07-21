@@ -22,7 +22,8 @@ Brightness can be 0 to 2.
 
 ## Example
 
-![calvin_and_hobbes](https://user-images.githubusercontent.com/338885/179893520-14274099-8277-431a-b8d5-65f9bc6a5871.png)
+![original 0.6 and 1](https://user-images.githubusercontent.com/338885/180120169-f8070160-3ae0-4531-8e71-770107cd93da.png)
+
 
 ## Technical Details
 
